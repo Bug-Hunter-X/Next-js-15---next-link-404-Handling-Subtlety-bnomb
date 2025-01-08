@@ -1,0 +1,3 @@
+# Next.js 15 - next/link 404 Handling Subtlety
+
+This repository demonstrates a subtle issue with the `next/link` component in Next.js 15 concerning the handling of 404 errors when navigating to non-existent routes.  The problem is that the error handling might not be consistent or clear, potentially leading to unexpected application behavior. The provided example shows a simple component that links to a non-existent page and how this can be handled more robustly. 
